@@ -1,2 +1,2 @@
 # omdbapi-react
-omdbapi with react. 
+omdbAPI with react. 
