@@ -1,0 +1,34 @@
+.backButton a {
+  height: 42px;
+  width: 60px;
+   border-radius: 5px;
+   border: 2px solid #da552f;
+   background-color: #da552f;
+   margin-bottom: 10px;
+   color: #ffffff;
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   transition: all 0.2s;
+}
+p#ratings {
+  font-weight: bold;
+  margin-left: 500px;
+
+}
+#stars {
+  margin-left: 200px;
+
+}
+
+#contentMovie {
+  margin-top: 90px;
+}
+
+#contentMovie p {
+  font-weight: bold;
+  margin-top: 10px;
+}

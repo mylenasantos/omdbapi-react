@@ -1,0 +1,13 @@
+header#main-header {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+nav#main-nav {
+  background-color: #000000;
+}
